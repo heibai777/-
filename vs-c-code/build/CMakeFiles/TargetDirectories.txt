@@ -1,0 +1,3 @@
+D:/vs-c-code/build/CMakeFiles/hello.dir
+D:/vs-c-code/build/CMakeFiles/edit_cache.dir
+D:/vs-c-code/build/CMakeFiles/rebuild_cache.dir
